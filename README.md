@@ -1,9 +1,21 @@
 # 🧤 Sign Language Interpreter Glove (Text & Audio Output)
 
+<<<<<<< HEAD
 A wearable Arduino-based glove that detects hand gestures using flex sensors and translates sign language into **spoken audio** and **text display** in both **English and Hindi**. Built using low-cost, open-source components, this project demonstrates how assistive technologies can improve accessibility and communication for the speech- and hearing-impaired.
+=======
+📦 Components Used
+Component Quantity Description
+Arduino Nano (ATMega328p) 1 Main microcontroller
+Flex Sensors 5 One for each finger
+16x2 LCD (I2C Interface) 1 For displaying detected words
+DFPlayer Mini + SD Card 1 For playing audio output
+9V Battery 1 Power supply
+Jumper Wires, Resistors, Gloves As needed For connections and wearable setup
+>>>>>>> e69bff1 (made folder structure changes)
 
 ---
 
+<<<<<<< HEAD
 ## 📦 Components Used
 
 | Component                  | Quantity | Description                            |
@@ -14,6 +26,9 @@ A wearable Arduino-based glove that detects hand gestures using flex sensors and
 | DFPlayer Mini + SD Card   | 1        | For playing audio output               |
 | 9V Battery                | 1        | Power supply                           |
 | Jumper Wires, Resistors, Gloves | As needed | For connections and wearable setup |
+=======
+📂 Download: demo_video.mp4
+>>>>>>> e69bff1 (made folder structure changes)
 
 ---
 
@@ -72,6 +87,7 @@ While the current implementation builds a strong foundation, future upgrades cou
 
 ## 📁 File Structure
 
+<<<<<<< HEAD
 📁 Sign Language Interpreter Glove/
 ├── 📂 image/
 │ └── project_image.jpg
@@ -94,4 +110,22 @@ Feel free to use, modify, and share it for educational, assistive tech, or resea
 ## 🤝 Contributing
 
 Suggestions, improvements, or bug fixes are welcome!  
+=======
+📁 File Structure
+bash
+Copy
+Edit
+├── Arduino_code.ino # Complete source code
+├── synopsis.pdf # Project overview with circuit diagrams
+├── video/
+│ └── demo_video.mp4 # Project demo video
+├── images/
+│ └── glove.jpg # Image of glove hardware
+📜 License
+This project is licensed under the MIT License.
+Feel free to use, modify, and share it for educational, assistive tech, or research purposes.
+
+🤝 Contributing
+Suggestions, improvements, or bug fixes are welcome!
+>>>>>>> e69bff1 (made folder structure changes)
 Feel free to open issues or submit pull requests.
