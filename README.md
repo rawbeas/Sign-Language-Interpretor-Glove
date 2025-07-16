@@ -26,8 +26,7 @@ Jumper Wires, Resistors, Gloves As needed For connections and wearable setup
 | DFPlayer Mini + SD Card   | 1        | For playing audio output               |
 | 9V Battery                | 1        | Power supply                           |
 | Jumper Wires, Resistors, Gloves | As needed | For connections and wearable setup |
-=======
-📂 Download: demo_video.mp4
+
 
 
 ---
@@ -87,7 +86,6 @@ While the current implementation builds a strong foundation, future upgrades cou
 
 ## 📁 File Structure
 
-<<<<<<< HEAD
 📁 Sign Language Interpreter Glove/
 ├── 📂 image/
 │ └── project_image.jpg
@@ -111,21 +109,3 @@ Feel free to use, modify, and share it for educational, assistive tech, or resea
 
 Suggestions, improvements, or bug fixes are welcome!  
 =======
-📁 File Structure
-bash
-Copy
-Edit
-├── Arduino_code.ino # Complete source code
-├── synopsis.pdf # Project overview with circuit diagrams
-├── video/
-│ └── demo_video.mp4 # Project demo video
-├── images/
-│ └── glove.jpg # Image of glove hardware
-📜 License
-This project is licensed under the MIT License.
-Feel free to use, modify, and share it for educational, assistive tech, or research purposes.
-
-🤝 Contributing
-Suggestions, improvements, or bug fixes are welcome!
->>>>>>> e69bff1 (made folder structure changes)
-Feel free to open issues or submit pull requests.
