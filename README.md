@@ -1,6 +1,6 @@
 # 🧤 Sign Language Interpreter Glove (Text & Audio Output)
 
-<<<<<<< HEAD
+<<<<<<< 
 A wearable Arduino-based glove that detects hand gestures using flex sensors and translates sign language into **spoken audio** and **text display** in both **English and Hindi**. Built using low-cost, open-source components, this project demonstrates how assistive technologies can improve accessibility and communication for the speech- and hearing-impaired.
 =======
 📦 Components Used
@@ -15,7 +15,7 @@ Jumper Wires, Resistors, Gloves As needed For connections and wearable setup
 
 ---
 
-<<<<<<< HEAD
+<<<<<<< 
 ## 📦 Components Used
 
 | Component                  | Quantity | Description                            |
@@ -28,7 +28,7 @@ Jumper Wires, Resistors, Gloves As needed For connections and wearable setup
 | Jumper Wires, Resistors, Gloves | As needed | For connections and wearable setup |
 =======
 📂 Download: demo_video.mp4
->>>>>>> e69bff1 (made folder structure changes)
+
 
 ---
 
